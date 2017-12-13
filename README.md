@@ -25,3 +25,6 @@ This setup the jaeger(on docker container) with hotrod go application
 	5. hit the "Find Traces"
 
 	6. This will show the some traces with some meta-data about it, such as the names of different services that participated in the trace, and the number of spans each service emitted to Jaeger.
+
+Reference: 
+https://medium.com/opentracing/take-opentracing-for-a-hotrod-ride-f6e3141f7941 
